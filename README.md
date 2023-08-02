@@ -1,16 +1,19 @@
-### Hi there 👋
+## Hi there 👋
 
-<!--
-**OBriqa/OBriqa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Omar, I am from Barcelona, Spain.
 
-Here are some ideas to get you started:
+- 🔭 I am currently studying a computer science degree at UPC.
+- 👯 I am looking for a internship to upgrade and apply my software development skills.
+- 📫 How to reach me: 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+
+- TransMED:
+- Flask APP:
+- Othello:
+
+## Skills
+
+<img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"/>
+
+## 
