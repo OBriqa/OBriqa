@@ -4,13 +4,16 @@ My name is Omar, I am from Barcelona, Spain.
 
 - 🔭 I am currently studying a computer science degree at UPC.
 - 👯 I am looking for a internship to upgrade and apply my software development skills.
-- 📫 How to reach me: 
+- 📫 How to reach me: [e-mail](mailto:omar.briqa@estudiantat.upc.edu)
 
 ## Projects
 
-- TransMED:
-- Flask APP:
-- Othello:
+- TransMED. Grupal degree project.
+  - https://github.com/PTIN-2023
+- Flask Web APP. Implements CRUD operations on a PostgreSQL database.
+  - https://github.com/OBriqa/flask-app-crud
+-  Othello. Minimax algorithm, iterative deepening and alpha-beta pruning versions, for the Othello game.
+  - https://github.com/OBriqa/Othello
 
 ## Skills
 
