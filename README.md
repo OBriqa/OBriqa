@@ -8,12 +8,16 @@ My name is Omar, I am from Barcelona, Spain.
 
 ## Projects
 
-- TransMED. Grupal degree project.
+- 💊 TransMED. Grupal degree project.
   - https://github.com/PTIN-2023
-- Flask Web APP. Implements CRUD operations on a PostgreSQL database.
+- 💻 Flask Web APP. Implements CRUD operations on a PostgreSQL database.
   - https://github.com/OBriqa/flask-app-crud
--  Othello. Minimax algorithm, iterative deepening and alpha-beta pruning versions, for the Othello game.
+- ♟️ Othello. Minimax algorithm, iterative deepening and alpha-beta pruning versions, for the Othello game.
   - https://github.com/OBriqa/Othello
+- 🔎 Laberint. Maze solver (Dijkstra's algorithm) and perfect-maze generator.
+  - https://github.com/OBriqa/Laberint
+- And much more...
+  - https://github.com/OBriqa
 
 ## Skills
 
