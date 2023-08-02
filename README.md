@@ -3,7 +3,7 @@
 My name is Omar, I am from Barcelona, Spain.
 
 - 🔭 I am currently studying a computer science degree at UPC.
-- 👯 I am looking for a internship to upgrade and apply my software development skills.
+- 🔎 I am looking for a internship to upgrade and apply my software development skills.
 - 📫 How to reach me: [e-mail](mailto:omar.briqa@estudiantat.upc.edu)
 
 ## Projects
@@ -14,7 +14,7 @@ My name is Omar, I am from Barcelona, Spain.
   - https://github.com/OBriqa/flask-app-crud
 - ♟️ Othello. Minimax algorithm, with iterative deepening and alpha-beta pruning versions, for the Othello game.
   - https://github.com/OBriqa/Othello
-- 🔎 Laberint. Maze solver (Dijkstra's algorithm) and perfect-maze generator.
+- 🧱 Laberint. Maze solver (Dijkstra's algorithm) and perfect-maze generator.
   - https://github.com/OBriqa/Laberint
 - And much more...
   - https://github.com/OBriqa
