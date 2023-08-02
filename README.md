@@ -34,5 +34,3 @@ My name is Omar, I am from Barcelona, Spain.
 <img align="left" alt="GeoGebra"    width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Geogebra.svg/2048px-Geogebra.svg.png"/>
 
 <br/>
-
-## 
