@@ -39,5 +39,6 @@ My name is Omar, I am from Barcelona, Spain.
 <img align="left" alt="MatLab"      width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg"/>
 <img align="left" alt="Mathematica" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Mathematica_Logo.svg/983px-Mathematica_Logo.svg.png"/>
 <img align="left" alt="GeoGebra"    width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Geogebra.svg/2048px-Geogebra.svg.png"/>
+<img align="left" alt="R"    width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg"/>          
 
 <br/>
