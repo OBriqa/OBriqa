@@ -3,7 +3,6 @@
 My name is Omar, I am from Barcelona, Spain.
 
 - 🔭 I am currently studying a computer science degree at UPC.
-- 🔎 I am looking for an internship to upgrade and apply my software development skills.
 - 📫 How to reach me: [e-mail](mailto:omar.briqa@estudiantat.upc.edu), [linkedin](https://www.linkedin.com/in/omar-briqa/)
 
 ## Projects
